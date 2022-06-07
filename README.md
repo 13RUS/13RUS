@@ -11,6 +11,7 @@ C++:
 - [Containers Implementation](https://github.com/13RUS/Cpp-Code/tree/main/otus-cpp-basics/06.containers)
 
 Algorithms:
+- [A*](https://github.com/13RUS/Cpp-Code/tree/main/A*%20search)
 - [Arrays](https://github.com/13RUS/LeetCodeProblems/tree/main/Array)
 - [Binary Search](https://github.com/13RUS/LeetCodeProblems/tree/main/BinarySearch)
 - [Dynamic Programming](https://github.com/13RUS/LeetCodeProblems/tree/main/DynamicProgramming)
