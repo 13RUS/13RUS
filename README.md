@@ -7,7 +7,8 @@
 I'm improving my skills In:
 
 C++:
-- [Core Concepts](https://github.com/13RUS/Cpp-Code/tree/main/otus-cpp-basics)
+- [Engineering Calculator](https://github.com/13RUS/Cpp-Code/tree/main/otus-cpp-basics/04.calculator)
+- [Containers Implementation](https://github.com/13RUS/Cpp-Code/tree/main/otus-cpp-basics/06.containers)
 
 Algorithms:
 - [Arrays](https://github.com/13RUS/LeetCodeProblems/tree/main/Array)
