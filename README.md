@@ -10,7 +10,8 @@ C++:
 
 
 Algorithms:
-Arrays [Arrays](https://github.com/13RUS/LeetCodeProblems/tree/main/Array)
+-[Arrays](https://github.com/13RUS/LeetCodeProblems/tree/main/Array)
+- [Binary Search](https://github.com/13RUS/LeetCodeProblems/tree/main/BinarySearch)
 
 Autonomous Technologies:
 
