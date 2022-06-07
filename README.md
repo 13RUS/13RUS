@@ -10,7 +10,7 @@ C++:
 
 
 Algorithms:
-Arrays [](https://github.com/13RUS/LeetCodeProblems/tree/main/Array)
+Arrays [()]([url](https://github.com/13RUS/LeetCodeProblems/tree/main/Array))
 
 Autonomous Technologies:
 
