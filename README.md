@@ -11,7 +11,7 @@ I'm improving my skills In:
 - [Impelement Matrix Class](https://github.com/13RUS/Probabilistic-Robotics/tree/main/Intro-To-Self-Driving-Cars/Project%202-Implement%20Matrix%20Class)
 - [Route Planner](https://github.com/13RUS/Probabilistic-Robotics/tree/main/Intro-To-Self-Driving-Cars/Project%204-Implement%20Route%20%20Planner)
 - [Squared Error Criterion and the Method of Least Squares](https://github.com/13RUS/Probabilistic-Robotics/tree/main/State-Estimation-and-Localization-for-Self-Driving-Cars/Week%2001/Notebook)
-- [Estimating a Vehicle Trajectory using Extended Kalman filter] https://github.com/13RUS/Probabilistic-Robotics/tree/main/State-Estimation-and-Localization-for-Self-Driving-Cars/Week%2002/Notebook
+- [Estimating a Vehicle Trajectory using Extended Kalman filter] (https://github.com/13RUS/Probabilistic-Robotics/tree/main/State-Estimation-and-Localization-for-Self-Driving-Cars/Week%2002/Notebook)
 
 
 🙎‍♂️ C++:
