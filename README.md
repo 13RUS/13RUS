@@ -19,8 +19,11 @@ I'm improving my skills In:
 - [Containers Implementation](https://github.com/13RUS/Cpp-Code/tree/main/otus-cpp-basics/06.containers)
 
 🧑🏻‍💻 Algorithms:
+- [Bitwise Arithmetic](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/05.bitwise_arithmetic)
+- [Matrix and Priority Queue Data Structures](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/04.data_structures)
 - [A*](https://github.com/13RUS/Cpp-Code/tree/main/A*%20search)
 - [Arrays](https://github.com/13RUS/LeetCodeProblems/tree/main/Array)
 - [Binary Search](https://github.com/13RUS/LeetCodeProblems/tree/main/BinarySearch)
 - [Dynamic Programming](https://github.com/13RUS/LeetCodeProblems/tree/main/DynamicProgramming)
+
 
