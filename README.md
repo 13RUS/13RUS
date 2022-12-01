@@ -19,6 +19,7 @@ I'm improving my skills In:
 - [Containers Implementation](https://github.com/13RUS/Cpp-Code/tree/main/otus-cpp-basics/06.containers)
 
 🧑🏻‍💻 Algorithms:
+- [Simple Sorting](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/06.simple_sorting), [Heap and Selection](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/07.pyramidal_sorting), [Quick and Merge](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/07.pyramidal_sorting), [Linear](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/09.linear_sorting)
 - [Bitwise Arithmetic](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/05.bitwise_arithmetic)
 - [Matrix and Priority Queue Data Structures](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/04.data_structures)
 - [A*](https://github.com/13RUS/Cpp-Code/tree/main/A*%20search)
