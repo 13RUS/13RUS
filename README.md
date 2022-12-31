@@ -20,7 +20,7 @@ I'm improving my skills In:
 
 🧑🏻‍💻 Algorithms:
 - Graph Algorithms: [Kosaraju](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/13.kosaraju), [Demukron](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/14.demukron)
-- [Hashing](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/12.hashing_with_chaining)
+- Hash Algorithms: [Hashing with chaining](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/12.hashing_with_chaining)
 - [Simple Sorting](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/06.simple_sorting), [Heap and Selection](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/07.pyramidal_sorting), [Quick and Merge](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/07.pyramidal_sorting), [Linear](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/09.linear_sorting)
 - [Bitwise Arithmetic](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/05.bitwise_arithmetic)
 - [Matrix and Priority Queue Data Structures](https://github.com/13RUS/Cpp-Code/tree/main/otus-algorithms/04.data_structures)
